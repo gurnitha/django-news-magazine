@@ -33,3 +33,14 @@
         NEXT:
 
         2. Setup
+
+
+## Section 1: Setup
+
+        Aktivitas:
+
+        1. Modidikasi file README.md 
+
+        NEXT:
+
+        1.1 Instal requirements
