@@ -97,4 +97,15 @@
 
         2.2 Django settings
 
+
+#### 2.2 Django settings
+
+        Aktivitas:
+
+        1. Set static file and timezone
+        modified:   newsmag/settings.py
+        
+        NEXT:
+
+        2.3 Django Urls
         
