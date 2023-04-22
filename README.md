@@ -71,3 +71,30 @@
         NEXT:
 
         2.1 Create django project
+
+
+#### 2.1 Create django project
+
+        Aktivitas:
+
+        1. Create django project
+
+        (venv39322) λ django-admin startproject newsmag .
+
+        2. Run the server
+
+        (venv39322) λ python manage.py runserver
+
+        modified:   README.md
+        new file:   manage.py
+        new file:   newsmag/__init__.py
+        new file:   newsmag/asgi.py
+        new file:   newsmag/settings.py
+        new file:   newsmag/urls.py
+        new file:   newsmag/wsgi.py
+
+        NEXT:
+
+        2.2 Django settings
+
+        
