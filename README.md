@@ -104,8 +104,22 @@
 
         1. Set static file and timezone
         modified:   newsmag/settings.py
-        
+
         NEXT:
 
         2.3 Django Urls
+
+
+#### 2.3 Django Urls and import os
+
+        Aktivitas:
+
+        1. Import os
+        modified:   newsmag/settings.py
         
+        2. Modified the url
+        modified:   newsmag/urls.py
+
+        NEXT:
+
+        2.4 Default Django Admin
