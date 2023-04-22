@@ -22,3 +22,14 @@
         NEXT:
 
         Clone repositori 
+
+
+#### 0.2 Clone the repositori
+
+        Aktivitas:
+
+        1. Clone the repositori
+
+        NEXT:
+
+        2. Setup
