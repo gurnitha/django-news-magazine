@@ -11,3 +11,14 @@
         1. Modifikasi file README.md
         modified:   .gitignore
         modified:   README.md
+
+
+#### 0.1 Create a new repository
+
+        Aktivitas:
+
+        1. Membuat repositori baru di Github
+
+        NEXT:
+
+        Clone repositori 
