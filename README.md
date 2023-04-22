@@ -60,3 +60,14 @@
         NEXT:
 
         Section 2: Create proyek django
+
+
+## Section 2: Run your first website
+
+        Aktivitas:
+
+        1. Modidikasi file README.md 
+
+        NEXT:
+
+        2.1 Create django project
