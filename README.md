@@ -123,3 +123,14 @@
         NEXT:
 
         2.4 Default Django Admin
+
+
+#### 2.4 Default Django Admin
+
+        Aktivitas:
+
+        1. Create superuser
+
+        NEXT:
+
+        3. Create django app
