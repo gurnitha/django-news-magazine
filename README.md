@@ -44,3 +44,19 @@
         NEXT:
 
         1.1 Instal requirements
+
+
+#### 1.1 Instal requirements
+
+        Aktivitas:
+
+        1. Instal:
+
+        - Node.js
+        - Python
+        - Pip
+        - Viertualenv 
+
+        NEXT:
+
+        Section 2: Create proyek django
