@@ -5,5 +5,8 @@ from django.urls import path
 urlpatterns = [
 
     url(r'^admin/' , admin.site.urls),
+
+    # url untuk main app
+    url(r'', include('app.main.urls')),
     
 ]

@@ -186,3 +186,30 @@
         NEXT:
 
         3.2 App settings
+
+
+#### 3.2 App settings
+
+        Aktivitas:
+
+        1. Membuat file baru: main/urls.py
+
+        2. Membuat path pada main/urls.py
+
+        3. Menyertakan (include) path dari main app pada path dari newsmag
+
+        4. Membuat folder static dan templates
+
+        5. Testing: jalankan server
+
+        6. Result: berhasil
+
+        7. Daftar file yang berubah/baru
+
+        modified:   README.md
+        new file:   app/main/urls.py
+        modified:   newsmag/urls.py
+
+        NEXT:
+
+        3.3 App layer
