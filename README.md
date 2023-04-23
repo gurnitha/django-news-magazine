@@ -163,7 +163,26 @@
         new file:   app/main/models.py
         new file:   app/main/tests.py
         new file:   app/main/views.py
-        
+
         NEXT:
 
         3.1 Create a new app - Part 2: register it to the config/settings.py
+
+
+#### 3.1 Create a new app - Part 2: register it to the config/settings.py
+
+        Aktivitas:
+
+        1. Mengubah file apps.py yang ada di dalam app/main
+        
+        from: name = 'main'
+        to: name = 'app.main'        
+
+        2. Registrasi 'main' app pada newsmag/settings.py
+        modified:   newsmag/settings.py
+
+        3. Testing: run the server :)
+
+        NEXT:
+
+        3.2 App settings
