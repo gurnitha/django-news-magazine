@@ -263,3 +263,29 @@
         NEXT:
 
         3.5 Aktifkan django admin
+
+
+#### 3.5 Aktifkan django admin
+
+        Aktivitas:
+
+        1. Register Main model 
+
+        2. Jalankan migrasi
+
+        3. Testing:
+
+        3.1 Login ke admin
+        3.2 Add test
+        3.3 Save
+
+        4. Result: berhasil 
+
+        5. Daftar file/folder yang berubah/baru
+
+        modified:   README.md
+        modified:   app/main/admin.py
+        new file:   app/main/migrations/0001_initial.py
+        NEXT:
+
+        Section 4: Django Bootstrap
