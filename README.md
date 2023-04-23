@@ -236,3 +236,30 @@
         NEXT:
 
         3.4 Test app
+
+
+#### 3.4 Test app
+
+        Aktivitas:
+
+        1. Membuat folder dan file baru:
+           templates/app/main/home_page.html + teks
+
+        2. Mendefinisikan path untuk home page pada app/main/urls.py
+
+        3. Mengaktifkan django templates pada newsmag/settings.py
+
+        4. Testing: jalankan server buka http://127.0.0.1:8000/
+
+        5. Result: berhasil
+
+        6. Daftar file/folder yang berubah/baru
+        
+        modified:   README.md
+        modified:   app/main/urls.py
+        modified:   newsmag/settings.py
+        new file:   templates/app/main/home_page.html
+
+        NEXT:
+
+        3.5 Aktifkan django admin
