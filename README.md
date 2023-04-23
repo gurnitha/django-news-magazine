@@ -134,3 +134,36 @@
         NEXT:
 
         3. Create django app
+
+
+## Secion 3: Create django app
+
+        Aktivitas:
+
+        1. Modidikasi file README.md 
+
+        NEXT:
+
+        3.1 Create 'main' app
+
+
+#### 3.1 Create a new app - Part 1: called it 'main'
+
+        Aktivitas:
+
+        1. Create a new app
+        (venv39322) λ mkdir app
+        (venv39322) λ mkdir app\main
+        (venv39322) λ django-admin startapp main app\main
+
+        new file:   app/main/__init__.py
+        new file:   app/main/admin.py
+        new file:   app/main/apps.py
+        new file:   app/main/migrations/__init__.py
+        new file:   app/main/models.py
+        new file:   app/main/tests.py
+        new file:   app/main/views.py
+        
+        NEXT:
+
+        3.1 Create a new app - Part 2: register it to the config/settings.py
