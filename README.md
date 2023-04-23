@@ -213,3 +213,26 @@
         NEXT:
 
         3.3 App layer
+
+
+#### 3.3 App layer
+
+        Aktivitas:
+
+        1. Membuat contoh model dengan nama 'Main'
+
+        2. Membuat contoh home_page views
+
+        3. Tesing: jalankan server
+
+        4. Result: berhasil
+
+        5. Daftar file/folder yang berubah/baru
+
+        modified:   README.md
+        modified:   app/main/models.py
+        modified:   app/main/views.py
+
+        NEXT:
+
+        3.4 Test app
